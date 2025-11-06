@@ -4,4 +4,7 @@ Developed an interactive Power BI dashboard visualizing Formula 1 race insights,
 ## Dashboard
 1. Home page
 2. Top
+   <img src="https://github.com/ChanduC2/F1-Race-World-Championship-Dashboard/blob/main/Screenshot%202025-11-06%20124750.png">
 3. Bottom
+   <img src="">
+   
